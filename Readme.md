@@ -2,6 +2,7 @@
 
 * Студент: [Сергей Степанов](https://up.htmlacademy.ru/htmlcss/34/user/2080897).
 * Наставник: `Оксана Вайнруб`.
+* Наставник: `Оксана Вайнруб`.(https://htmlacademy.ru/profile/id166797)
 
 ---
 
